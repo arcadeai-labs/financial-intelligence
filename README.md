@@ -6,6 +6,8 @@ A web-based financial research assistant. Research companies, analyze markets,
 create Google Docs briefings, and share to Slack — all through one chat
 interface.
 
+![Financial Intelligence Agent](images/hero-screenshot.png)
+
 Built with [Tavily](https://tavily.com) for real-time research,
 [Arcade](https://arcade.dev) as the MCP runtime, and
 [Vercel AI SDK](https://sdk.vercel.ai) for streaming chat with MCP tool
